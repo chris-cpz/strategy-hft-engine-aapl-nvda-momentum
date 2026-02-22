@@ -1,0 +1,6 @@
+backtrader>=1.9.78
+cpz-ai>=1.1.11
+numpy>=1.21.0
+pandas>=1.5.0
+python-dotenv>=1.0.0
+yfinance>=0.2.0
